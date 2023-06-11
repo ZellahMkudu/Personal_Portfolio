@@ -156,7 +156,7 @@ p.lead {
 	font-family: "lora-regular", serif;
 	font-size: 2rem;
 	line-height: 1.8;
-	color: #888888;
+	color: #282525;
 }
 @media only screen and (max-width:768px) {
 	p.lead {
@@ -1018,7 +1018,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
  * ------------------------------------------------------------------- 
  */
 .grey-section {
-	background: #ebebeb;
+	background:rgb(210, 219, 227);
 }
 .grey-section p.lead {
 	color: #7d7d7d;
@@ -1039,7 +1039,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	margin-bottom: 1.2rem;
 }
 .section-intro h5 {
-	color: #FF0077;
+	color: #d62727;
 	font-size: 1.6rem;
 	line-height: 1.875;
 	margin-bottom: 0.3rem;
@@ -1488,7 +1488,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #about {
-	background: #e8e9eae1;
+	background: rgb(210, 219, 227);
 	padding-top: 12rem;
 	padding-bottom: 15rem;
 }
@@ -1627,7 +1627,7 @@ header .logo a {
 	text-align: center;
 }
 #resume .resume-header h2 {
-	color: #FF0077;
+	color: #c41919;
 }
 
 #resume .resume-timeline {
@@ -1683,7 +1683,7 @@ header .logo a {
 #resume .timeline-header p {
 	font-family: "poppins-regular", sans-serif;
 	font-size: 1.6rem;
-	color: #888888;
+	color: #2c2929;
 }
 #resume .timeline-content {
 	margin-left: 35%;
@@ -2596,3 +2596,6 @@ footer .copyright span:last-child::after {
 }
 
 /*# sourceMappingURL=main.css.map */
+#hacker {
+	font-weight: bolder;
+}

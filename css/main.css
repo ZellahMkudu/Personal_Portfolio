@@ -1,7 +1,5 @@
 /**
  * =================================================================== 
- *
- *  Kards v1.0 Main Stylesheet
  *  url: styleshout.com
  *  03-01-2016
  *  ------------------------------------------------------------------
@@ -429,7 +427,7 @@ img.pull-left {
 	display: none;
 }
 .pace .pace-progress {
-	background: #FF0077;
+	background: #d62727;
 	position: fixed;
 	z-index: 900;
 	top: 0;
@@ -1414,7 +1412,7 @@ header .logo a {
 	color: #FFFFFF;
 }
 .intro-social li a:hover, .intro-social li a:focus {
-	color:rgb(110, 78, 165);
+	color:#10886e;
 }
 
 /**
@@ -1619,8 +1617,8 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #resume {
-	padding-top: 12rem;
-	padding-bottom: 12rem;
+	padding-top: 1.5rem;
+	padding-bottom: 2rem;
 }
 
 #resume .resume-header {
@@ -1788,9 +1786,9 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #portfolio {
-	background: #FFFFFF;
-	padding-top: 12rem;
-	padding-bottom: 12rem;
+	background: rgb(210, 219, 227);
+	padding-top: 6rem;
+	padding-bottom: 3rem;
 }
 #portfolio .folio-item {
 	padding: 0;
@@ -2119,7 +2117,7 @@ header .logo a {
 	color: white;
 }
 #services .section-intro h5 {
-	color: #FF0077;
+	color: #d62727;
 }
 #services .section-intro p {
 	color: rgba(255, 255, 255, 0.7);
@@ -2141,7 +2139,7 @@ header .logo a {
 }
 .services-list .icon i {
 	font-size: 5.4rem;
-	color: #FF0077;
+	color: #d62727;
 }
 .services-list h3 {
 	color: #FFFFFF;
@@ -2169,7 +2167,7 @@ header .logo a {
 	background: #FFFFFF;
 }
 .owl-theme .owl-controls .owl-page.active span {
-	background: #FF0077;
+	background: #d62727;
 }
 
 
@@ -2600,7 +2598,7 @@ footer .copyright span:last-child::after {
 	font-weight: bolder;
 }
 .big-container {
-	background-color: #111111;
+	background-color: rgb(210, 219, 227);
 	width: 100%;
 	height: auto;
 	display: flex;
@@ -2610,7 +2608,7 @@ footer .copyright span:last-child::after {
 
 }
 .item-1 {
-	background-color: #d4d1e3;
+	background-color: rgb(210, 219, 227);
 	color: #8b1212;
 	width: 33%;
 	height: 50vh;
@@ -2652,5 +2650,6 @@ footer .copyright span:last-child::after {
 .item-1 img {
 	width: 100%;
 	height: 100%;
+	border-radius: 5px;
 	
 }

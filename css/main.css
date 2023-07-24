@@ -2332,7 +2332,7 @@ header .logo a {
 #contact input[type="password"],
 #contact input[type="email"] {
 	height: 6.6rem;
-	padding: 1.8rem 2rem;
+	padding: 1.2rem 1rem;
 }
 #contact input[type="text"]:focus,
 #contact input[type="password"]:focus,
